@@ -1,20 +1,5 @@
 ## All information has been copy to learning. Please don't re up in any pages.
 
-### Awesome Reads & Presentations
-- [Bypassing XSS Detection Mechanisms](https://github.com/s0md3v/MyPapers/tree/master/Bypassing-XSS-detection-mechanisms)
-- [XSS in Sarahah](http://www.shawarkhan.com/2017/08/sarahah-xss-exploitation-tool.html)
-- [XSS in Facebook via PNG Content Type](https://whitton.io/articles/xss-on-facebook-via-png-content-types/)
-- [How I met your girlfriend](https://www.youtube.com/watch?v=fWk_rMQiDGc)
-- [How to Find 1,352 Wordpress XSS Plugin Vulnerabilities in one hour](https://www.youtube.com/watch?v=9ADubsByGos)
-- [Blind XSS](https://www.youtube.com/watch?v=OT0fJEtz7aE)
-- [Copy Pest](https://www.slideshare.net/x00mario/copypest)
-
-### Awesome Tools
-- [XSStrike](https://github.com/UltimateHackers/XSStrike)
-- [xsshunter.com](https://xsshunter.com)
-- [BeEF](https://github.com/beefproject/beef)
-- [JShell](https://github.com/UltimateHackers/JShell)
-
 ### Awesome DOM XSS
 
 - Does your input go into a sink? `Vulnerable`
