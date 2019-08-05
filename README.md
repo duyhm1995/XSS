@@ -77,10 +77,12 @@ This comprehensive list of sinks and source is taken from [domxsswiki](https://g
 ```
 
 
-### Awesome Tags & Event Handlers
+### Note for me
 - [105 Event Handlers with description](https://github.com/duyhm1995/XSS/blob/master/Event%20Handlers%20and%20Tag.md)
 - [200 Event Handlers without description](https://github.com/duyhm1995/XSS/blob/master/200events.md)
 - [payload list all the things](https://github.com/duyhm1995/XSS/blob/master/Payloadlist.md)
+- [check list of me for internal website](https://github.com/duyhm1995/XSS/blob/master/Checklist%20-%20DUY%20-%20For%20internal%20website.xlsx)
+
 
 Some less detected event handlers
 ```
